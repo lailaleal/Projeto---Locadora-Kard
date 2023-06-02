@@ -1,0 +1,2 @@
+# Projeto---Locadora-Kard
+Função 
